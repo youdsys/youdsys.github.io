@@ -121,7 +121,7 @@ Application Queue Manager qui gère la queue de tous les ordres de traitement su
 moment un script avec n’importe quel langage et l’ajouter à la QM)
 - Création des scénarios, regroupement de plusieurs scripts pour qu’ils soient exécutés dans un ordre défini
  
-**Environnement:** Java/J2ee, Trello, Gwt, Python, JS, Html, css, Hibernate, JPA, Spring (mvc, integration), Thrift, Git, eclipse, Linux, Amazon Aws, EC2, MongoDB, morphia, svn, tomcat, jetty, Spring boot , Maven.
+**Environnement:** Java/J2ee, Trello, Gwt, Python, JS, Html, css, Hibernate, JPA, Spring (mvc, integration), Thrift, Git, eclipse, Linux, AWS (Ec2, S3, RDS ...), MongoDB, morphia, svn, tomcat, jetty, Spring boot , Maven.
 
 
 ## Crédit Mutuel de Bretagne                                                                2011
