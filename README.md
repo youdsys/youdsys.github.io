@@ -1,9 +1,6 @@
 ## Djamel HAMAS
 ***
 
-### Presentation
----
-
 Ingénieur informaticien
 
 Leader & architecte Technique / devops / Cloud 
